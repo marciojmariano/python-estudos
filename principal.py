@@ -4,7 +4,7 @@ from src.dicionarios import exemplo_basico # Importação de função
 
 
 def main():
-    dicionarios.solicitar_dados_alunos()
+    dicionarios.solicitar_dados_alunos_com_validacao()
     # dicionarios.exemplo_basico() 
     # exemplo_basico()
 
